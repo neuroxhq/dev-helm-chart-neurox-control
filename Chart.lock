@@ -1,7 +1,7 @@
 dependencies:
 - name: neurox-control-api
   repository: oci://ghcr.io/neuroxhq/dev-helm-charts
-  version: 2.175.0
+  version: 2.176.0
 - name: neurox-control-portal
   repository: oci://ghcr.io/neuroxhq/dev-helm-charts
   version: 1.189.0
@@ -17,5 +17,5 @@ dependencies:
 - name: neurox-workload
   repository: oci://ghcr.io/neuroxhq/dev-helm-charts
   version: 1.14.6
-digest: sha256:a54b59bb32e0249b9776c664c247791c69d05eb37b3e1e8525caa702fa00d6e6
-generated: "2025-03-13T18:21:02.353665864Z"
+digest: sha256:0ad0db31ea9daf7dc4be236464e05dbfde0f0f19d183426a4a742cf9544c7271
+generated: "2025-03-13T18:37:46.622552222Z"
