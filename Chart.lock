@@ -4,7 +4,7 @@ dependencies:
   version: 2.173.0
 - name: neurox-control-portal
   repository: oci://ghcr.io/neuroxhq/dev-helm-charts
-  version: 1.188.1
+  version: 1.189.0
 - name: redis
   repository: oci://registry-1.docker.io/bitnamicharts
   version: 20.11.3
@@ -17,5 +17,5 @@ dependencies:
 - name: neurox-workload
   repository: oci://ghcr.io/neuroxhq/dev-helm-charts
   version: 1.14.6
-digest: sha256:8ff632dd0bdbc20baa957a6d89c13841fc9a617bd8dc51acccc2840471b8fa86
-generated: "2025-03-13T06:40:07.788825241Z"
+digest: sha256:e352d57650c7ca5ef324757f907c8c3b99860bfcd91692065e2f1114029f1295
+generated: "2025-03-13T18:12:49.331214841Z"
