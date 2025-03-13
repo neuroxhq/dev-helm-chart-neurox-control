@@ -10,12 +10,12 @@ dependencies:
   version: 20.11.3
 - name: neurox-control-scheduler
   repository: oci://ghcr.io/neuroxhq/dev-helm-charts
-  version: 1.90.1
+  version: 1.91.0
 - name: thanos
   repository: oci://registry-1.docker.io/bitnamicharts
   version: 15.13.2
 - name: neurox-workload
   repository: oci://ghcr.io/neuroxhq/dev-helm-charts
   version: 1.14.6
-digest: sha256:6764403a058cff9d3760f736b966c09d61fcfc96e7acb9fcde9661e0a5581398
-generated: "2025-03-13T21:59:53.54342169Z"
+digest: sha256:62a6ba60e6e19ef18bb6b68620ebba5765825851acb87d1b8baf66bbef650565
+generated: "2025-03-13T22:11:35.622461309Z"
